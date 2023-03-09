@@ -1,0 +1,2 @@
+viewIntro-yes
+fase-no
